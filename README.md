@@ -1,5 +1,14 @@
-<<<<<<< HEAD
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
-=======
+# Getting Started
 
->>>>>>> 5bdcc126f1e1b6ad1d1149a5ab83e84c883a4f10
+Before you get started, make sure you have the following things installed:
+* nodejs (I recommend 14+)
+* npm
+* git
+
+In order to clone the repository, run ```git clone git@github.com:gkgkgkgk/HerokuNextJS.git```
+
+Then, go into the directory, and run ```npm install```
+
+Then, run ```npm run dev```.
+
+Navigate to localhost:3000 in your browser, and you should see it running.
